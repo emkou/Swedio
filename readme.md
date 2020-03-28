@@ -1,6 +1,6 @@
 # Swedio
 
-![Image description](link-to-image)
+![screenshot](https://raw.githubusercontent.com/emkou/Swedio/master/image.png)
 
 Swedio is a standalone watch app streaming most of Sweden's radio stations online.
 

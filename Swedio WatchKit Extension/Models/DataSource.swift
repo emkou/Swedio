@@ -9,7 +9,7 @@
 import Foundation
 
 struct DataSource {
-    public static let dataSource = [
+    public static let data = [
     RadioItem(id: "1", name: "Bandit Ballads", url: "http://wr21-ice.stream.khz.se/wr21_mp3"),
     RadioItem(id: "2", name: "Bandit Classic Rock", url: "http://wr11-ice.stream.khz.se/wr11_mp3"),
     RadioItem(id: "3", name: "Bandit Metal", url: "http://wr03-ice.stream.khz.se/wr03_mp3"),

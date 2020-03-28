@@ -7,3 +7,10 @@
 //
 
 import Foundation
+import SwiftUI
+
+public struct RadioItem: Codable {
+    let id:String
+    let name:String
+    let url: String
+}
